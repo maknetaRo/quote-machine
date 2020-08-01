@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/quote-machine/static/css/main.2340d079.chunk.css",
+    "main.js": "/quote-machine/static/js/main.f05b9d47.chunk.js",
+    "main.js.map": "/quote-machine/static/js/main.f05b9d47.chunk.js.map",
+    "runtime-main.js": "/quote-machine/static/js/runtime-main.e62646e6.js",
+    "runtime-main.js.map": "/quote-machine/static/js/runtime-main.e62646e6.js.map",
+    "static/js/2.3b0b9ceb.chunk.js": "/quote-machine/static/js/2.3b0b9ceb.chunk.js",
+    "static/js/2.3b0b9ceb.chunk.js.map": "/quote-machine/static/js/2.3b0b9ceb.chunk.js.map",
+    "index.html": "/quote-machine/index.html",
+    "precache-manifest.19835ef21dce56688a620be8041f3a68.js": "/quote-machine/precache-manifest.19835ef21dce56688a620be8041f3a68.js",
+    "service-worker.js": "/quote-machine/service-worker.js",
+    "static/css/main.2340d079.chunk.css.map": "/quote-machine/static/css/main.2340d079.chunk.css.map",
+    "static/js/2.3b0b9ceb.chunk.js.LICENSE.txt": "/quote-machine/static/js/2.3b0b9ceb.chunk.js.LICENSE.txt",
+    "static/media/Arystoteles.jfif": "/quote-machine/static/media/Arystoteles.36e3605a.jfif",
+    "static/media/Benjamin-Franklin.jfif": "/quote-machine/static/media/Benjamin-Franklin.8ee2cad4.jfif",
+    "static/media/Eleanor-Roosevelt.jfif": "/quote-machine/static/media/Eleanor-Roosevelt.2ea84f05.jfif",
+    "static/media/James-Cameron-2012.jpg": "/quote-machine/static/media/James-Cameron-2012.fd57c25c.jpg",
+    "static/media/Nelson-Mandela.jpg": "/quote-machine/static/media/Nelson-Mandela.fbd20497.jpg",
+    "static/media/Walt_Disney_1946.JPG": "/quote-machine/static/media/Walt_Disney_1946.af2400dd.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62646e6.js",
+    "static/js/2.3b0b9ceb.chunk.js",
+    "static/css/main.2340d079.chunk.css",
+    "static/js/main.f05b9d47.chunk.js"
+  ]
+}
